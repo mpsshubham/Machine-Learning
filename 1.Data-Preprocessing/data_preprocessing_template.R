@@ -30,8 +30,8 @@ dataset$Country = factor(dataset$Country,
                          labels = c(1,2,3))
 
 dataset$Purchased = factor(dataset$Purchased,
-                         levels = c('No','Yes'),  # c() in R stands for array/vector
-                         labels = c(0,1))
+                           levels = c('No','Yes'),  # c() in R stands for array/vector
+                           labels = c(0,1))
 
 # 5. Splitting the dataset into the Training set and Test set
 # Machine Learning Models first learn by using correlation between training sets

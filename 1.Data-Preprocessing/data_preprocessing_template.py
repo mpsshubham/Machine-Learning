@@ -41,6 +41,7 @@ X[:,0] = labelencoder_X.fit_transform(X[:,0])
 # Using LabelEncoder we encode text to numbers but since 1>0 and 2>1 the equations in the model
 # will think that spain has higher value than germany and france but thats not the case
 # These are just three categories
+# We cannot use onehotencoder without labelencoder bcoz onehotencoder requires numerical data
 # So we will be using dummy variables with number of columns equal to number of categories
 onehotencoder = OneHotEncoder(categorical_features = [0])
 X = onehotencoder.fit_transform(X).toarray()
