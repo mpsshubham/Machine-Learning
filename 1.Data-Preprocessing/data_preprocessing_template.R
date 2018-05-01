@@ -8,7 +8,7 @@
 # and then click more and then set as working directory
 
 dataset = read.csv('Data.csv')     # select and press ctrl + enter for running
-# dataset = dataset[,2:3]           # to select subset of data
+# dataset = dataset[2:3]           # to select subset of data
 # R indexes starts with one unlike python
 # In R we dont need to distinguish between dependent and independent variables
 
