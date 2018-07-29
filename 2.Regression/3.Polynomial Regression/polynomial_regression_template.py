@@ -38,7 +38,7 @@ poly_reg = PolynomialFeatures(degree = 4)
 X_poly = poly_reg.fit_transform(X)
 # Here X_poly contains x1 in the middle column, x1^2 in the last column, and the poly_reg object
 # automatically created columns of ones(x0) as the first columns that we need in backward elimination
-# for the constant b0
+# for the constant b0 (for degree 2)
 lin_reg_2 = LinearRegression()
 lin_reg_2.fit(X_poly, y)
 
@@ -50,7 +50,6 @@ plt.xlabel('Position level')
 plt.ylabel('Salary')
 plt.show()
 
-'''
 # Visualising Polynomial Regression Results
 plt.scatter(X, y, color = 'red')
 # plt.plot(X, lin_reg_2.predict(X_poly), color = 'blue') this would have worked fine, but if we have new X then we need to have new X_poly
@@ -59,7 +58,7 @@ plt.title('Truth or Bluff (Polynomail Regression)')
 plt.xlabel('Position level')
 plt.ylabel('Salary')
 plt.show()
-'''
+
 # Now to improve our curve, we are changing degree from 2 to 3 and reexecuting our code
 # With degree 4, we get the best curve, predicting values very close to real
 

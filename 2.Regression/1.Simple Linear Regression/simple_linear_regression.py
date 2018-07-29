@@ -24,7 +24,7 @@ X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.33, random
 # b1 - coefficient(slope), how unit change in x1 affect y
 # b0 - constant term, where line crosses vertical axis(x == 0, experience == 0)
 # salary = b0 + b1 * experience
-# we try to find the best line that fit our data by minimzing the sum of squared difference 
+# we try to find the best line that fit ourdata data by minimzing the sum of squared difference 
 # between the observed and modelled value(Ordinary Least Square Method )
  
 # Fitting Simple Linear Regression to the Training Set
