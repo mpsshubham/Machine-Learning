@@ -15,7 +15,7 @@ regressor = svm(formula = Salary ~ .,
                 data = dataset,
                 type = 'eps-regression')  # for classification use type = C-classification
 
-# Predicting a new result
+# Predicting a new Result
 y_pred = predict(regressor, data.frame(Level = 6.5))
 
 # Visualising the SVR results

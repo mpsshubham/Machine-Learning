@@ -1,4 +1,4 @@
-# Random Forest Regression
+# RANDOM FOREST REGRESSION
 
 # Importing the dataset
 dataset = read.csv('Position_Salaries.csv')

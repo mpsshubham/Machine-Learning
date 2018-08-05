@@ -11,7 +11,7 @@ training_set = subset(dataset, split == TRUE)
 test_set = subset(dataset, split == FALSE)
 # again feature scaling not required(inbuilt in method used)
 
-# Simple Linear Regression
+# SIMPLE LINEAR REGRESSION
 
 # Fitting Simple Linear Regression to the Training Set
 regressor = lm(formula = Salary ~ YearsExperience,

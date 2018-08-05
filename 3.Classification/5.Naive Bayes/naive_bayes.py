@@ -1,4 +1,4 @@
-# Naive Bayes
+# NAIVE BAYES
 
 # P(A|B)       =     (P(B|A)         *P(A))      /     P(B)
 # posterior          likelihood      prior            marginal

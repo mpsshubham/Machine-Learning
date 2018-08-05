@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (K-NN)
+# K-NEAREST NEIGHBORS (K-NN)
 
 # Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')

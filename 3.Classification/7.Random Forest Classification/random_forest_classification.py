@@ -1,4 +1,4 @@
-# Random Forest Classification
+# RANDOM FOREST CLASSIFICATION
 
 # 1) pick at random k data points from the training set
 # 2) build the decision tree associated to these k data points

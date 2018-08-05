@@ -28,7 +28,7 @@ X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.2, random_
 
 # No feature scaling required(inbuilt)
 
-# Multiple Linear Regression
+# MULTIPLE LINEAR REGRESSION
 # y = b0 + b1x1 + b2x2 + .... + bnxn
 # Assumptions of Linear Regression
 # 1.Linearity

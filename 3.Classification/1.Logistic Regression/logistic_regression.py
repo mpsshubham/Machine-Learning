@@ -1,4 +1,4 @@
-# Logistic Regression
+# LOGISTIC REGRESSION
 
 # Unlike regression where you predict a continuous number, you use classification to predict a
 # category. There is a wide variety of classification applications from medicine to marketing.

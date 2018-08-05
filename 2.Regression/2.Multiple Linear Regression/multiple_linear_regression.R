@@ -14,7 +14,7 @@ split = sample.split(dataset$Profit, SplitRatio = 0.8)
 training_set = subset(dataset, split == TRUE)
 test_set = subset(dataset, split == FALSE)
 
-# Multiple Linear Regression
+# MULTIPLE LINEAR REGRESSION
 # Fitting Multiple Linear Regression to the training set
 
 # or we can write formula = Profit ~ .

@@ -1,4 +1,4 @@
-# Logistic Regression
+# LOGISTIC REGRESSION
 
 # Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')

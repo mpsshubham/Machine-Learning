@@ -16,7 +16,7 @@ y = dataset.iloc[:,2].values
 # we hava very small dataset and we need to make very accurate predictions, so
 # we cant afford to loose any single data while building model
 
-# Polynomial Regression
+# POLYNOMIAL REGRESSION
 # y = b0 + b1x1 + b2x1^2 + ... + bnx1^n (same variable x1 in different power)
 # Useful when data is not arranged in linear fashion (curves)
 # Why it is called Linear????

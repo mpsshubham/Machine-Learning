@@ -17,7 +17,7 @@ from sklearn.cross_validation import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.33, random_state = 0)
 # Simple Linear Regression libraries take care of feature scaling themselves, so no need of explicitly doing it
 
-# Simple Linear Regression
+# SIMPLE  LINEAR REGRESSION
 # y = b0 + b1 * x1
 # y - dependent variable(salary)
 # x1 - independent variable(experience)

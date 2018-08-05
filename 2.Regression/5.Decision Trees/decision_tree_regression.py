@@ -1,4 +1,4 @@
-# Decision Tree Regression
+# DECISION TREE REGRESSION
 
 # CART -> Classification trees or Regression trees
 # Regression trees are bit more complex than classification trees

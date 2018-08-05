@@ -1,4 +1,4 @@
-# Kernel SVM
+# KERNEL SVM
 
 # Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')

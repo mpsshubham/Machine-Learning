@@ -1,4 +1,4 @@
-# Data Preprocessing
+# DATA PREPROCESSING
 
 # 1. Importing Libraries
 #libraries can be imported from the packages section in R

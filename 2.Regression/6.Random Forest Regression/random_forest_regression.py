@@ -1,4 +1,4 @@
-# Random Forest Regression
+# RANDOM FOREST REGRESSION
 # Random forest is a version of ensemble learning
 # ensemble learning - when you take multiple algorithm or the same algorithm multiple times  
 # and we put them together to make something powerful than the original.

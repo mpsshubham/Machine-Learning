@@ -1,4 +1,4 @@
-# Decision Tree Regression
+# DECISION TREE REGRESSION
 
 # Importing the dataset
 dataset = read.csv('Position_Salaries.csv')

@@ -1,4 +1,4 @@
-# Support Vector Machine (SVM)
+# SUPPORT VECTOR MACHINE (SVM)
 
 # Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')

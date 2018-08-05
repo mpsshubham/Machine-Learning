@@ -1,4 +1,4 @@
-# Support Vector Machine (SVM)
+# SUPPORT VECTOR MACHINE (SVM)
 
 # how to seprate two regions
 # maximum margin is taken(max distance from nearest points called support vector)

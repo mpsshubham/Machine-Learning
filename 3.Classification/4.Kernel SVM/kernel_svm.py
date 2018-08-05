@@ -1,4 +1,4 @@
-# Kernel SVM
+# KERNEL SVM
 
 # used when data is not linearly seprable
 # what we can do is take our non linearly seprable data and map that to higher 

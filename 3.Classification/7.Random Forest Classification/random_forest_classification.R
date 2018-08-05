@@ -1,4 +1,4 @@
-# Random Forest Classification
+# RANDOM FOREST CLASSIFICATION
 
 # Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')

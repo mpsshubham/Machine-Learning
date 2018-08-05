@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (K-NN)
+# K-NEAREST NEIGHBORS (K-NN)
 
 # non linear
 # 1) choose the number k of neighbors

@@ -1,5 +1,5 @@
 # SVR
-# second non linear model
+# Second non linear model
 
 # Importing the libraries
 import numpy as np
